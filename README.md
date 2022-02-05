@@ -3,8 +3,8 @@
 ## I'm a Linux enthousiast and developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other contributors
-- 🥅 2022 Goal: Become fluent in Rust
+- 👯 I’m looking to collaborate with other devs
+- 🥅 2022 Goal: Contribute to more repositories
 
 ### Languages and Tools:
 
