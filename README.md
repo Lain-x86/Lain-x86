@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs
 - 🥅 2022 Goal: Contribute to more repositories
-- <img alt="Arch Linux" width="20px" height="20px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" width="100" height="100" alt="archlinux logo"> I use Arch btw
+- <img alt="Arch Linux" width="17px" height="17px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" width="100" height="100" alt="archlinux logo"> I use Arch btw
 
 ### Languages and Tools:
 
