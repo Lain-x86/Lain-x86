@@ -1,4 +1,4 @@
-### Hi there, I'm shadawcraw 👋 
+# What's up! I'm shadawcraw 👋 
 
 ## I'm a Linux enthousiast and developer!!
 
