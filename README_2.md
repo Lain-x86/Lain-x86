@@ -1,7 +1,15 @@
+# Well Hello There! :wave:
+
 ```python
-class Shadawcraw:
+class AboutMe:
+
     def __init__(self):
-        self.languages = ["Python", "Rust", "Javascript"]
+        self.programming_languages = ["Python", "Rust", "Javascript"]
+        self.spoken_languages = ["en_US", "fr_FR"]
         self.currently_learning = "Everything!"
         self._2022_goal = "To be a great software developer"
+        self.discord = "hentyhentys#9419"
+
+    def learn(self, lang = "SQL"):
+        self.languages.append(lang)
 ```
