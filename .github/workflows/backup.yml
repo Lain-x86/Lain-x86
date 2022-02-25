@@ -1,0 +1,40 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  "0 0 * * 1"
+    
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 
+        
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8.0'
+          
+      - name: execute Python script
+        run: |
+          python3 create_backup.py
+          
+      - name: commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Create README.md backup" -a
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  
