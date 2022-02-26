@@ -26,17 +26,20 @@ class AboutMe:
 ## 📈 My GitHub Stats
 
 <a href="https://github.com/shadawcraw/shadawcraw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadawcraw&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadawcraw&hide=java,html,tex&title_color=ffffff&theme=dark&langs_count=3&hide_border=true" />
 </a>
 <a href="https://github.com/shadawcraw/shadawcraw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadawcraw&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadawcraw&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/shadawcraw/Hadum-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=Hadum-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=Hadum-Bot&theme=dark&hide_border=true" />
 </a>
 
 
 <a href="https://github.com/shadawcraw/higher_lower">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=higher_lower&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=higher_lower&theme=dark&hide_border=true" />
 </a> 
+
+[featured_repo_1]: shadawcraw/Hadum-Bot
+[featured_repo_2]: shadawcraw/higher_lower
