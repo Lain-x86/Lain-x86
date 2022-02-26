@@ -26,6 +26,11 @@ class AboutMe:
 ## ⚡ My GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#6](https://github.com/xandermann/html-classes-obfuscator/pull/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
+2. 🗣 Commented on [#3](https://github.com/xandermann/html-classes-obfuscator/issues/3) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
+3. 🎉 Merged PR [#1](https://github.com/shadawcraw/higher_lower/pull/1) in [shadawcraw/higher_lower](https://github.com/shadawcraw/higher_lower)
+4. 🗣 Commented on [#1](https://github.com/shadawcraw/higher_lower/issues/1) in [shadawcraw/higher_lower](https://github.com/shadawcraw/higher_lower)
+5. 🎉 Merged PR [#31](https://github.com/shadawcraw/Hadum-Bot/pull/31) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
