@@ -27,10 +27,10 @@ class AboutMe:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-2. 🗣 Commented on [#6](https://github.com/xandermann/html-classes-obfuscator/issues/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
-3. 🗣 Commented on [#1](https://github.com/CoatlessEskimo/FennecBot/issues/1) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-4. 💪 Opened PR [#2](https://github.com/CoatlessEskimo/FennecBot/pull/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-5. 💪 Opened PR [#6](https://github.com/xandermann/html-classes-obfuscator/pull/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
+2. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
+3. 🗣 Commented on [#6](https://github.com/xandermann/html-classes-obfuscator/issues/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
+4. 🗣 Commented on [#1](https://github.com/CoatlessEskimo/FennecBot/issues/1) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
+5. 💪 Opened PR [#2](https://github.com/CoatlessEskimo/FennecBot/pull/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
