@@ -26,11 +26,6 @@ class AboutMe:
 ## ⚡ My GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/xandermann/html-classes-obfuscator/pull/7) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
-2. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-3. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-4. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-5. 🗣 Commented on [#6](https://github.com/xandermann/html-classes-obfuscator/issues/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
