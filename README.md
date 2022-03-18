@@ -26,9 +26,9 @@ class AboutMe:
 ## ⚡ My GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/taskylizard/piratedgames-megathread/pull/15) in [taskylizard/piratedgames-megathread](https://github.com/taskylizard/piratedgames-megathread)
-2. 💪 Opened PR [#7](https://github.com/xandermann/html-classes-obfuscator/pull/7) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
-3. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
+1. 🎉 Merged PR [#33](https://github.com/shadawcraw/Hadum-Bot/pull/33) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+2. 💪 Opened PR [#15](https://github.com/taskylizard/piratedgames-megathread/pull/15) in [taskylizard/piratedgames-megathread](https://github.com/taskylizard/piratedgames-megathread)
+3. 💪 Opened PR [#7](https://github.com/xandermann/html-classes-obfuscator/pull/7) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
 4. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
 5. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
 6. 🗣 Commented on [#6](https://github.com/xandermann/html-classes-obfuscator/issues/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
