@@ -26,14 +26,14 @@ class AboutMe:
 ## ⚡ My GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/shadawcraw/Hadum-Bot/pull/32) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-2. 🎉 Merged PR [#33](https://github.com/shadawcraw/Hadum-Bot/pull/33) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-3. 💪 Opened PR [#15](https://github.com/taskylizard/piratedgames-megathread/pull/15) in [taskylizard/piratedgames-megathread](https://github.com/taskylizard/piratedgames-megathread)
-4. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-5. 🗣 Commented on [#2](https://github.com/CoatlessEskimo/FennecBot/issues/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-6. 🗣 Commented on [#6](https://github.com/xandermann/html-classes-obfuscator/issues/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
-7. 🗣 Commented on [#1](https://github.com/CoatlessEskimo/FennecBot/issues/1) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
-8. 💪 Opened PR [#2](https://github.com/CoatlessEskimo/FennecBot/pull/2) in [CoatlessEskimo/FennecBot](https://github.com/CoatlessEskimo/FennecBot)
+1. ❌ Closed PR [#27](https://github.com/shadawcraw/Hadum-Bot/pull/27) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+2. ❌ Closed PR [#28](https://github.com/shadawcraw/Hadum-Bot/pull/28) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+3. ❌ Closed PR [#29](https://github.com/shadawcraw/Hadum-Bot/pull/29) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+4. ❌ Closed PR [#30](https://github.com/shadawcraw/Hadum-Bot/pull/30) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+5. ❌ Closed PR [#34](https://github.com/shadawcraw/Hadum-Bot/pull/34) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+6. 🎉 Merged PR [#32](https://github.com/shadawcraw/Hadum-Bot/pull/32) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+7. 🎉 Merged PR [#33](https://github.com/shadawcraw/Hadum-Bot/pull/33) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+8. 💪 Opened PR [#15](https://github.com/taskylizard/piratedgames-megathread/pull/15) in [taskylizard/piratedgames-megathread](https://github.com/taskylizard/piratedgames-megathread)
 9. 💪 Opened PR [#6](https://github.com/xandermann/html-classes-obfuscator/pull/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
 10. 🗣 Commented on [#3](https://github.com/xandermann/html-classes-obfuscator/issues/3) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
 <!--END_SECTION:activity-->
