@@ -26,16 +26,16 @@ class AboutMe:
 ## ⚡ My GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/shadawcraw/Hadum-Bot/pull/27) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-2. ❌ Closed PR [#28](https://github.com/shadawcraw/Hadum-Bot/pull/28) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-3. ❌ Closed PR [#29](https://github.com/shadawcraw/Hadum-Bot/pull/29) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-4. ❌ Closed PR [#30](https://github.com/shadawcraw/Hadum-Bot/pull/30) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-5. ❌ Closed PR [#34](https://github.com/shadawcraw/Hadum-Bot/pull/34) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-6. 🎉 Merged PR [#32](https://github.com/shadawcraw/Hadum-Bot/pull/32) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-7. 🎉 Merged PR [#33](https://github.com/shadawcraw/Hadum-Bot/pull/33) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-8. 💪 Opened PR [#15](https://github.com/taskylizard/piratedgames-megathread/pull/15) in [taskylizard/piratedgames-megathread](https://github.com/taskylizard/piratedgames-megathread)
-9. 💪 Opened PR [#6](https://github.com/xandermann/html-classes-obfuscator/pull/6) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
-10. 🗣 Commented on [#3](https://github.com/xandermann/html-classes-obfuscator/issues/3) in [xandermann/html-classes-obfuscator](https://github.com/xandermann/html-classes-obfuscator)
+1. ❗️ Opened issue [#4](https://github.com/shadawcraw/Barnacle/issues/4) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+2. ❗️ Closed issue [#3](https://github.com/shadawcraw/Barnacle/issues/3) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+3. ❗️ Opened issue [#3](https://github.com/shadawcraw/Barnacle/issues/3) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+4. ❌ Closed PR [#27](https://github.com/shadawcraw/Hadum-Bot/pull/27) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+5. ❌ Closed PR [#28](https://github.com/shadawcraw/Hadum-Bot/pull/28) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+6. ❌ Closed PR [#29](https://github.com/shadawcraw/Hadum-Bot/pull/29) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+7. ❌ Closed PR [#30](https://github.com/shadawcraw/Hadum-Bot/pull/30) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+8. ❌ Closed PR [#34](https://github.com/shadawcraw/Hadum-Bot/pull/34) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+9. 🎉 Merged PR [#32](https://github.com/shadawcraw/Hadum-Bot/pull/32) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+10. 🎉 Merged PR [#33](https://github.com/shadawcraw/Hadum-Bot/pull/33) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
