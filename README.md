@@ -26,16 +26,16 @@ class AboutMe:
 ## ⚡ My GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/shadawcraw/Barnacle/issues/6) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-2. ❗️ Closed issue [#5](https://github.com/shadawcraw/Barnacle/issues/5) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-3. ❗️ Opened issue [#5](https://github.com/shadawcraw/Barnacle/issues/5) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-4. ❗️ Closed issue [#4](https://github.com/shadawcraw/Barnacle/issues/4) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-5. ❗️ Opened issue [#4](https://github.com/shadawcraw/Barnacle/issues/4) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-6. ❗️ Closed issue [#3](https://github.com/shadawcraw/Barnacle/issues/3) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-7. ❗️ Opened issue [#3](https://github.com/shadawcraw/Barnacle/issues/3) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
-8. ❌ Closed PR [#27](https://github.com/shadawcraw/Hadum-Bot/pull/27) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-9. ❌ Closed PR [#28](https://github.com/shadawcraw/Hadum-Bot/pull/28) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
-10. ❌ Closed PR [#29](https://github.com/shadawcraw/Hadum-Bot/pull/29) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+1. ❗️ Closed issue [#6](https://github.com/shadawcraw/Barnacle/issues/6) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+2. ❗️ Opened issue [#6](https://github.com/shadawcraw/Barnacle/issues/6) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+3. ❗️ Closed issue [#5](https://github.com/shadawcraw/Barnacle/issues/5) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+4. ❗️ Opened issue [#5](https://github.com/shadawcraw/Barnacle/issues/5) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+5. ❗️ Closed issue [#4](https://github.com/shadawcraw/Barnacle/issues/4) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+6. ❗️ Opened issue [#4](https://github.com/shadawcraw/Barnacle/issues/4) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+7. ❗️ Closed issue [#3](https://github.com/shadawcraw/Barnacle/issues/3) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+8. ❗️ Opened issue [#3](https://github.com/shadawcraw/Barnacle/issues/3) in [shadawcraw/Barnacle](https://github.com/shadawcraw/Barnacle)
+9. ❌ Closed PR [#27](https://github.com/shadawcraw/Hadum-Bot/pull/27) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
+10. ❌ Closed PR [#28](https://github.com/shadawcraw/Hadum-Bot/pull/28) in [shadawcraw/Hadum-Bot](https://github.com/shadawcraw/Hadum-Bot)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
