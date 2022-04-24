@@ -1,6 +1,6 @@
 # Well Hello There! :wave:
 
-**I'm BiasedKiwi, an aspiring software developer!**
+**I'm BiasedKiwi, an aspiring software developer! (Formerly known as shadawcraw)**
 
 ```python
 class AboutMe:
