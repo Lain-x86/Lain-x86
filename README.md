@@ -47,12 +47,12 @@ class AboutMe:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadawcraw&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/shadawcraw/Hadum-Bot">
+<a href="https://github.com/BiasedKiwi/Barnacle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=Hadum-Bot&theme=dark&hide_border=true" />
 </a>
 
 
-<a href="https://github.com/shadawcraw/higher_lower">
+<a href="https://github.com/BiasedKiwi/higher_lower">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=higher_lower&theme=dark&hide_border=true" />
 </a> 
 
