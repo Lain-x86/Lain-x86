@@ -48,12 +48,12 @@ class AboutMe:
 </a>
 
 <a href="https://github.com/BiasedKiwi/Barnacle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=Hadum-Bot&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BiasedKiwi&repo=Barnacle&theme=dark&hide_border=true" />
 </a>
 
 
 <a href="https://github.com/BiasedKiwi/higher_lower">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadawcraw&repo=higher_lower&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BiasedKiwi&repo=higher_lower&theme=dark&hide_border=true" />
 </a> 
 
 [featured_repo_1]: BiasedKiwi/Barnacle
