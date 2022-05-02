@@ -40,11 +40,11 @@ class AboutMe:
 
 ## 📈 My GitHub Stats
 
-<a href="https://github.com/shadawcraw/shadawcraw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadawcraw&hide=java,html,tex&title_color=ffffff&theme=dark&langs_count=3&hide_border=true" />
+<a href="https://github.com/BiasedKiwi/BiasedKiwi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasedKiwi&hide=java,html,tex&title_color=ffffff&theme=dark&langs_count=3&hide_border=true" />
 </a>
-<a href="https://github.com/shadawcraw/shadawcraw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadawcraw&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="Martin's GitHub Stats" />
+<a href="https://github.com/BiasedKiwi/BiasedKiwi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BiasedKiwi&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/BiasedKiwi/Barnacle">
