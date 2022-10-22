@@ -1,4 +1,7 @@
-<p align="center">BiasedKiwi</p>
+<h1 align="center">
+<br>
+BiasedKiwi
+</h1>
 
 <p align="center">currently developing a nice Discord bot</p>
 
