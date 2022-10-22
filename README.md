@@ -1,5 +1,6 @@
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1028671950698053692/1033456850470977536/wallpaperflare.com_wallpaper.jpg"
+                        width=700></p>               
 <h1 align="center">
-<br>
 BiasedKiwi
 </h1>
 
