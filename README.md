@@ -1,11 +1,9 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1028671950698053692/1033456850470977536/wallpaperflare.com_wallpaper.jpg"
-                        width=700></p>               
 <h1 align="center">
 BiasedKiwi
 </h1>
 
 <p align="center">
-Rust, Python, SQL and some web dev fundamentals
+Rust, Python, SQL and Web Dev
 </p>
 
 </br>
