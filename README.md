@@ -8,9 +8,9 @@ I'm BiasedKiwi
 
 <h2>About Me</h2>
 
-<p>I'm an aspiring software developer, from France</p>
+<p>I'm an aspiring software developer, from France.</p>
 
-  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=20px width=20px/> Currently learning React
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=20px width=20px/> Currently learning React.
   - 🎹 In my free time, I play the piano.
 
 ---
