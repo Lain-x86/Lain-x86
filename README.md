@@ -33,7 +33,6 @@ I'm BiasedKiwi
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height=40px width=40px />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height=40px width=40px />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height=40px width=40px />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" height=40px width=40px />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height=40px width=40px />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height=40px width=40px />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height=40px width=40px />
