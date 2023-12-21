@@ -1,23 +1,56 @@
 <h1 align="center">
-BiasedKiwi
+Hey There 👋
 </h1>
 
 <p align="center">
-Rust, Python, SQL and Web Dev
+I'm BiasedKiwi
 </p>
 
-</br>
+<h2>About Me</h2>
 
-<details>
-<summary>
-Stats
-</summary>
-</br>
+<p>I'm an aspiring software developer, from France</p>
+
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=20px width=20px/> Currently learning React
+  - 🎹 In my free time, I play the piano.
+
+---
+
+<h2>Tech & Tools I use</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BiasedKiwi&theme=dark&hide_border=true&show_icons=true&custom_title=Muh%20Stats&count_private=true">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" height=40px width=40px />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" height=40px width=40px />
 </p>
-<p align="center">
+          
+</br>
+
+---
+
+<h2>My Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=BiasedKiwi&theme=dark&hide_border=true&show_icons=true&custom_title=My%20Stats&count_private=true">
+</p>
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasedKiwi&layout=compact&theme=dark&hide_border=true">
 </p>
-</details>
