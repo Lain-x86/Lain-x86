@@ -6,6 +6,10 @@ Hey There 👋
 I'm BiasedKiwi
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BiasedKiwi&style=flat-square&color=blue" alt=""/>
+</p>
+
 <h2>About Me</h2>
 
 <p>I'm an aspiring software developer, from France.</p>
