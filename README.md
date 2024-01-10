@@ -49,7 +49,7 @@ I'm BiasedKiwi
 
 <h2>My Stats</h2>
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BiasedKiwi&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beige.vercel.app?user=BiasedKiwi&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <p>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasedKiwi&layout=compact&theme=dark" alt="Top Languages" /></a>
