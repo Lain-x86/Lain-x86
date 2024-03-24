@@ -16,6 +16,8 @@ I'm BiasedKiwi
 
   - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=20px width=20px/> Currently learning React.
   - 🎹 In my free time, I play the piano.
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=20px width=20px/> I use Arch, btw.
+          
 
 ---
 
