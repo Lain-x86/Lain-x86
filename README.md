@@ -8,16 +8,7 @@ I'm BiasedKiwi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BiasedKiwi&style=flat-square&color=blue" alt=""/>
-</p>
-
-<h2>About Me</h2>
-
-<p>I'm an aspiring software developer, from France.</p>
-
-  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height=20px width=20px/> Currently learning React.
-  - 🎹 In my free time, I play the piano.
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=20px width=20px/> I use Arch, btw.
-          
+</p>        
 
 ---
 
