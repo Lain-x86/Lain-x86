@@ -3,7 +3,7 @@ Hey There 👋
 </h1>
 
 <p align="center">
-I'm Lainx86
+I'm Lain_x86, currently learning C.
 </p>
 
 <p align="center">
@@ -42,8 +42,8 @@ I'm Lainx86
 
 <h2>My Stats</h2>
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beige.vercel.app?user=BiasedKiwi&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-beige.vercel.app?user=Lain-x86&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasedKiwi&layout=compact&theme=dark" alt="Top Languages" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lain-x86&layout=compact&theme=dark" alt="Top Languages" /></a>
 </p>
