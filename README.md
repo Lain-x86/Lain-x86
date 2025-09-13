@@ -8,4 +8,4 @@ Self-taught dev since my 11 years old. In the process of learning C, after a sma
 
 ![:Lain_x86](https://count.getloli.com/@Lain_x96?name=Lain_x96&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-![That's it!](./blinkiesCafe-jn.gif)
+![That's it!](./blinkiesCafe-bu.gif)
