@@ -1,3 +1,5 @@
+![Lain_x86](./blinkiesCafe-He.gif)
+
 Hi there [ꉂ(˵˃ ᗜ ˂˵)](https://www.youtube.com/watch?v=duPJqfKiA78)
 
 I'm Alex, aka Lain_x86. Love computers, love music.
